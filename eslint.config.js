@@ -21,7 +21,7 @@ export default [
         },
         rules: {
             indent: ['error', 4, { SwitchCase: 1 }],
-            quotes: ['error', 'single'],
+            // quotes: ['error', 'single'],
             semi: ['error', 'always'],
             'no-unused-vars': ['error', { argsIgnorePattern: '^_' }],
             'no-console': 'off',

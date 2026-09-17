@@ -1,0 +1,37 @@
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:09:31 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:10:33 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:14:32 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:27:50 +0000] \"GET / HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:27:53 +0000] \"GET /api HTTP/1.1\" 200 42 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:28:05 +0000] \"GET /api HTTP/1.1\" 304 - \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:28:31 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:28:42 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:28:46 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Safari/537.36\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:32:36 +0000] \"POST /api/sign-in HTTP/1.1\" 404 27 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:32:52 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 27 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:33:36 +0000] \"POST /auth/sign-in HTTP/1.1\" 404 27 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:33:38 +0000] \"POST /auth/sign-in HTTP/1.1\" 404 27 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:33:41 +0000] \"POST /auth/sign-in HTTP/1.1\" 404 27 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:33:42 +0000] \"POST /auth/sign-in HTTP/1.1\" 404 27 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:33:42 +0000] \"POST /auth/sign-in HTTP/1.1\" 404 27 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:33:43 +0000] \"POST /auth/sign-in HTTP/1.1\" 404 27 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:33:51 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 404 27 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"Hello from Acquisitions!","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:39:14 +0000] \"GET / HTTP/1.1\" 200 24 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:39:20 +0000] \"GET /health HTTP/1.1\" 200 76 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:48:54 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 404 27 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:13:48:54 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 404 27 \"-\" \"PostmanRuntime/7.39.1\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:14:57:00 +0000] \"POST /api/sign-up HTTP/1.1\" 404 27 \"-\" \"PostmanRuntime/2.6.0\"","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:14:57:20 +0000] \"POST /api/sign-up HTTP/1.1\" 404 27 \"-\" \"PostmanRuntime/2.6.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User behram@gmail.com created successfully","service":"acquisitions-api"}
+{"level":"info","message":"User registered successfully: behram@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:14:58:05 +0000] \"POST /api/auth/sign-up HTTP/1.1\" 201 103 \"-\" \"PostmanRuntime/2.6.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User behram@gmail.com authenticated successfully","service":"acquisitions-api"}
+{"level":"info","message":"User signed in successfully: behram@gmail.com","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:15:02:51 +0000] \"POST /api/auth/sign-in HTTP/1.1\" 200 115 \"-\" \"PostmanRuntime/2.6.0\"","service":"acquisitions-api"}
+{"level":"info","message":"User signed out successfully","service":"acquisitions-api"}
+{"level":"info","message":"::1 - - [17/Sep/2026:15:02:58 +0000] \"POST /api/auth/sign-out HTTP/1.1\" 200 42 \"-\" \"PostmanRuntime/2.6.0\"","service":"acquisitions-api"}

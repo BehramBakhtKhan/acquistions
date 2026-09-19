@@ -6,7 +6,12 @@ const aj = arcjet({
         shield({ mode: 'LIVE' }),
         detectBot({
             mode: 'LIVE',
-            allow: ['CATEGORY:SEARCH_ENGINE', 'CATEGORY:PREVIEW'],
+            allow: [
+                'CATEGORY:SEARCH_ENGINE',
+                'CATEGORY:PREVIEW',
+                'POSTMAN', // Allows Postman client requests
+                'CURL', // Allows cURL command-line requests (or 'CATEGORY:CURL')
+            ],
         }),
         slidingWindow({
             mode: 'LIVE',
